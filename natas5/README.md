@@ -45,4 +45,4 @@ To solve Natas Level 5:
 
 ### Next Level
 
-[Level 5 → Level 6]()
+[Level 5 → Level 6](https://github.com/nimodb/natas-challenge-solver/tree/main/natas6)

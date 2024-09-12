@@ -21,4 +21,4 @@ To solve Natas Level 2:
 
 ### Next Level
 
-[Level 2 → Level 3]()
+[Level 2 → Level 3](https://github.com/nimodb/natas-challenge-solver/tree/main/natas3)

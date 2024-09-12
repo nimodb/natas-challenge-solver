@@ -12,7 +12,7 @@ Natas Challenge Solver is a repository dedicated to solving the Natas security c
     <tr>
         <td>Level 0</td>
         <td>
-            <a href="">
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas0">
                 🔗
             </a>
         </td>
@@ -20,7 +20,7 @@ Natas Challenge Solver is a repository dedicated to solving the Natas security c
     <tr>
         <td>Level 0 → Level 1</td>
         <td>
-            <a href="">
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas1">
                 🔗
             </a>
         </td>
@@ -28,7 +28,15 @@ Natas Challenge Solver is a repository dedicated to solving the Natas security c
     <tr>
         <td>Level 1 → Level 2</td>
         <td>
-            <a href="">
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas2">
+                🔗
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Level 2 → Level 3</td>
+        <td>
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas3">
                 🔗
             </a>
         </td>
@@ -36,7 +44,7 @@ Natas Challenge Solver is a repository dedicated to solving the Natas security c
     <tr>
         <td>Level 3 → Level 4</td>
         <td>
-            <a href="">
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas4">
                 🔗
             </a>
         </td>
@@ -44,7 +52,7 @@ Natas Challenge Solver is a repository dedicated to solving the Natas security c
     <tr>
         <td>Level 4 → Level 5</td>
         <td>
-            <a href="">
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas5">
                 🔗
             </a>
         </td>
@@ -52,15 +60,7 @@ Natas Challenge Solver is a repository dedicated to solving the Natas security c
     <tr>
         <td>Level 5 → Level 6</td>
         <td>
-            <a href="">
-                🔗
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>Level 6 → Level 7</td>
-        <td>
-            <a href="">
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas6">
                 🔗
             </a>
         </td>
