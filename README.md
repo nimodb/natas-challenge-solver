@@ -65,6 +65,22 @@ Natas Challenge Solver is a repository dedicated to solving the Natas security c
             </a>
         </td>
     </tr>
+    <tr>
+        <td>Level 6 → Level 7</td>
+        <td>
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas7">
+                🔗
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Level 7 → Level 8</td>
+        <td>
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas8">
+                🔗
+            </a>
+        </td>
+    </tr>
 </table>
 
 ## Contributing

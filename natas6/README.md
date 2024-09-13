@@ -37,8 +37,8 @@ To solve Natas Level 6:
      curl -b "loggedin=1" http://natas5.natas.labs.overthewire.org/ --user natas5:0n35PkggAPm2zbEpOU802c0x0Msn1ToK
      ```
 
-  - **Password for Natas Level x:** `0RoJwHdSKWFTYR5WuiAewauSuNaBXned`
+  - **Password for Natas Level 6:** `0RoJwHdSKWFTYR5WuiAewauSuNaBXned`
 
 ### Next Level
 
-[Level x → Level x]()
+[Level 6 → Level 7](https://github.com/nimodb/natas-challenge-solver/tree/main/natas7)
