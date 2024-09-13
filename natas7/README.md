@@ -1,4 +1,4 @@
-# Natas Level
+# Natas Level 7
 
 - Username: natas7
 - URL: http://natas7.natas.labs.overthewire.org
