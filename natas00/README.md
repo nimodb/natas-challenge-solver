@@ -6,4 +6,4 @@
 
 ### Next Level
 
-[Level 0 → Level 1](https://github.com/nimodb/natas-challenge-solver/tree/main/natas1)
+[Level 0 → Level 1](https://github.com/nimodb/natas-challenge-solver/tree/main/natas01)

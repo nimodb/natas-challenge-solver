@@ -26,4 +26,4 @@ To solve Natas Level 4:
 
 ### Next Level
 
-[Level 4 → Level 5](https://github.com/nimodb/natas-challenge-solver/tree/main/natas5)
+[Level 4 → Level 5](https://github.com/nimodb/natas-challenge-solver/tree/main/natas05)

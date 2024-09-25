@@ -30,4 +30,4 @@ To solve Natas Level 8:
 
 ### Next Level
 
-[Level 8 → Level 9](https://github.com/nimodb/natas-challenge-solver/tree/main/natas9)
+[Level 8 → Level 9](https://github.com/nimodb/natas-challenge-solver/tree/main/natas09)

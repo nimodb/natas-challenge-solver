@@ -25,4 +25,4 @@ To solve Natas Level 7:
 
 ### Next Level
 
-[Level 7 → Level 8](https://github.com/nimodb/natas-challenge-solver/tree/main/natas8)
+[Level 7 → Level 8](https://github.com/nimodb/natas-challenge-solver/tree/main/natas08)

@@ -19,4 +19,4 @@ To solve Natas Level 3:
 
 ### Next Level
 
-[Level 3 → Level 4](https://github.com/nimodb/natas-challenge-solver/tree/main/natas4)
+[Level 3 → Level 4](https://github.com/nimodb/natas-challenge-solver/tree/main/natas04)

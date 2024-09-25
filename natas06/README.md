@@ -41,4 +41,4 @@ To solve Natas Level 6:
 
 ### Next Level
 
-[Level 6 → Level 7](https://github.com/nimodb/natas-challenge-solver/tree/main/natas7)
+[Level 6 → Level 7](https://github.com/nimodb/natas-challenge-solver/tree/main/natas07)

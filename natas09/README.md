@@ -25,11 +25,11 @@ To solve Natas Level 9:
 
   4. Let's break down the process step by step using:
 
-     1. **[PHP](https://github.com/nimodb/natas-challenge-solver/tree/main/natas9/decode_secret.php)**
-     2. **[Python](https://github.com/nimodb/natas-challenge-solver/tree/main/natas9/decode_secret.py)**
-     3. **[Rust](https://github.com/nimodb/natas-challenge-solver/tree/main/natas9/decode_secret.rs)**
+     1. **[PHP](https://github.com/nimodb/natas-challenge-solver/tree/main/natas09/decode_secret.php)**
+     2. **[Python](https://github.com/nimodb/natas-challenge-solver/tree/main/natas09/decode_secret.py)**
+     3. **[Rust](https://github.com/nimodb/natas-challenge-solver/tree/main/natas09/decode_secret.rs)**
 
-     > These scripts decodes the secret. Running the code will reveal the original secret: `oubWYf2kBq`
+     These scripts decodes the secret. Running the code will reveal the original secret: `oubWYf2kBq`
 
   5. Use `oubWYf2kBq` as the secret and input in the form to access the password for Natas Level 9:
 
