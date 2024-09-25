@@ -1,6 +1,6 @@
 # Natas Level 8
 
-- Username: natas7
+- Username: natas8
 - URL: http://natas8.natas.labs.overthewire.org
 
 ## Solution
