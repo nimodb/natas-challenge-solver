@@ -100,7 +100,15 @@ Natas Challenge Solver is a repository dedicated to solving the Natas security c
     <tr>
         <td>Level 10 → Level 11</td>
         <td>
-            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas011">
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas11">
+                🔗
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Level 11 → Level 12</td>
+        <td>
+            <a href="https://github.com/nimodb/natas-challenge-solver/tree/main/natas12">
                 🔗
             </a>
         </td>
