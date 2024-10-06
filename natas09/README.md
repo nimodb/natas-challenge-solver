@@ -7,7 +7,7 @@
 
 To solve Natas Level 9:
 
-- **Inspect the Source Page:** From the provided source code of tis page, we see that the `$encodedSecret` variable and `encodeSecret($secret)` function.
+- **Inspect the Source Page:** From the provided source code of this page, we see that the `$encodedSecret` variable and `encodeSecret($secret)` function.
 
   1. The `$encodedSecret` variable contains the value `3d3d516343746d4d6d6c315669563362`.
 
